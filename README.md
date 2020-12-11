@@ -9,6 +9,6 @@
 ## 目录
 
 1. [工作当中常用到的CSS](https://github.com/panyefan/blog/issues/1) 2020-07-28
-2. [遍历二叉树](https://github.com/panyefan/blog/issues/2) 2020-11-09
+2. [二叉树的深度与广度遍历](https://github.com/panyefan/blog/issues/2) 2020-11-09
 3. [原型与原型链](https://github.com/panyefan/blog/issues/3) 2020-11-10
 4. [JavaScript深浅拷贝的实现](https://github.com/panyefan/blog/issues/4) 2020-12-11
